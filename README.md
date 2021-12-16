@@ -44,7 +44,9 @@ List of features
 ----------------
 
 Basic features: 25 points
+
 Utilization of React: 5 points
+
 Post/comment creation timestamps: 1 point
 
 =31 points
